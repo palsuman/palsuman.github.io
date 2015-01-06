@@ -1,35 +1,11 @@
-Travelog Theme
+My Blog
 ---
 
-Travelog is a theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple.
 
-![](http://i.imgur.com/FrNwKav.png)
-
-In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
-
-It has been designed to be an easy layout to modify for your own blog. See the installation instructions below to get started.
-
-### Installation
-
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/travelog-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/travelog-theme`
-- Run the jekyll server: `jekyll serve -w`
-
-You should have a server up and running locally at <http://localhost:4000>.
-
-### Customization 
-
-To customize the theme to your hearts content, check out what's in `_config.yml` as that's where you'll pull your name, Twitter username, things like that.
-
-
-### Deployment
-
-Travelog is designed to be deployed to [GitHub Pages](https://pages.github.com/). 
 
 
 ### License
 
-[MIT](https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE)
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Suman Pal</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://palsuman.github.io/" property="cc:attributionName" rel="cc:attributionURL">Technical</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@rowanoulton](https://twitter.com/rowanoulton/).
+Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@fumansun](https://twitter.com/fumansun/).

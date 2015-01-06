@@ -1,4 +1,17 @@
 <header>
-    <a href="/"><h1>{{ site.title }}</h1></a>
-    <h2>{{ site.subtitle }}</h2>
+	<div class="about-wrap">
+        <section class="about">
+            <img class="about-avatar" src="{{ "/img/avatar.jpg" | prepend: site.baseurl }}" border="0" alt="[name]" />
+            <div class="about-body">
+                <p class="about-body-title">About</p>
+                <p class="about-body-description">{{ site.description }}</p>
+                <ul>
+                    <li><a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="about-body-link"><img src="{{ "/img/icon-twitter.png" | prepend: site.baseurl }}" border="0" alt="Twitter" /> @{{ site.twitter_username }}</a></li>
+                </ul>
+            </div>
+            
+        </section>
+    </div>
 </header>
+
+    

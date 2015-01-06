@@ -2,11 +2,13 @@
 <html lang="en">
   {% include head.html %}
     <body>
-      <div id="ribbon"></div>
+    {% include header.html %}
       <div id="wrap">
-        {% include header.html %}
+        <a href="/"><h1>{{ site.title }}</h1></a>
+    	<h2>{{ site.subtitle }}</h2>
         {{ content }}
       </div>
+      <div id="ribbon"></div>
       {% include footer.html %}
       <script type="text/javascript" src="{{ site.baseurl }}/js/travelog.js"></script>
     </body>
