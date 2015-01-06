@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spirla Matrix"
+title:  "Spiral Matrix"
 date:   2015-01-06 17:39:55
 categories: java, technical
 location: Kolkata, India
