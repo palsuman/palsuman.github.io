@@ -1,2 +1,0 @@
-palsuman.github.io
-==================
