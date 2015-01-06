@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
@@ -42,4 +41,3 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 =======
 palsuman.github.io
 ==================
->>>>>>> ac0afe752dbd2c9bb3468372319b235ece7a5e55
